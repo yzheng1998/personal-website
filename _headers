@@ -89,7 +89,7 @@
   Link: </component---src-templates-categories-list-template-js-2181ec47d28e5c35d3e9.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/categories/page-data.json>; rel=preload; as=fetch; crossorigin
-/posts/the-origins-of-social-stationery-lettering
+/posts/perfecting-the-art-of-perfection
   Link: </webpack-runtime-d31026a577fa1df9f885.js>; rel=preload; as=script
   Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
   Link: </framework-4ae830732e225b42b55a.js>; rel=preload; as=script
@@ -100,7 +100,7 @@
   Link: </643651a62fb35a9bb4f20061cb1f214a352d7976-2f1fb2331422a5d97452.js>; rel=preload; as=script
   Link: </component---src-templates-post-template-js-9a0b047e1f33250a769a.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/posts/the-origins-of-social-stationery-lettering/page-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/posts/perfecting-the-art-of-perfection/page-data.json>; rel=preload; as=fetch; crossorigin
 /posts/humane-typography-in-the-digital-age
   Link: </webpack-runtime-d31026a577fa1df9f885.js>; rel=preload; as=script
   Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
@@ -147,18 +147,6 @@
   Link: </component---src-templates-page-template-js-325d2704a02841a87f30.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/pages/contacts/page-data.json>; rel=preload; as=fetch; crossorigin
-/posts/perfecting-the-art-of-perfection
-  Link: </webpack-runtime-d31026a577fa1df9f885.js>; rel=preload; as=script
-  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </framework-4ae830732e225b42b55a.js>; rel=preload; as=script
-  Link: </532a2f07-549094fa347c85980056.js>; rel=preload; as=script
-  Link: </app-a2394822f272fce54a1a.js>; rel=preload; as=script
-  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </cd95ea5cbd2c605f26db819f07999610c9ff4310-706455f1cc5c6727f2f2.js>; rel=preload; as=script
-  Link: </643651a62fb35a9bb4f20061cb1f214a352d7976-2f1fb2331422a5d97452.js>; rel=preload; as=script
-  Link: </component---src-templates-post-template-js-9a0b047e1f33250a769a.js>; rel=preload; as=script
-  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </page-data/posts/perfecting-the-art-of-perfection/page-data.json>; rel=preload; as=fetch; crossorigin
 /posts/a-brief-history-of-typography
   Link: </webpack-runtime-d31026a577fa1df9f885.js>; rel=preload; as=script
   Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
@@ -171,6 +159,18 @@
   Link: </component---src-templates-post-template-js-9a0b047e1f33250a769a.js>; rel=preload; as=script
   Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </page-data/posts/a-brief-history-of-typography/page-data.json>; rel=preload; as=fetch; crossorigin
+/posts/the-origins-of-social-stationery-lettering
+  Link: </webpack-runtime-d31026a577fa1df9f885.js>; rel=preload; as=script
+  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </framework-4ae830732e225b42b55a.js>; rel=preload; as=script
+  Link: </532a2f07-549094fa347c85980056.js>; rel=preload; as=script
+  Link: </app-a2394822f272fce54a1a.js>; rel=preload; as=script
+  Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </cd95ea5cbd2c605f26db819f07999610c9ff4310-706455f1cc5c6727f2f2.js>; rel=preload; as=script
+  Link: </643651a62fb35a9bb4f20061cb1f214a352d7976-2f1fb2331422a5d97452.js>; rel=preload; as=script
+  Link: </component---src-templates-post-template-js-9a0b047e1f33250a769a.js>; rel=preload; as=script
+  Link: </page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </page-data/posts/the-origins-of-social-stationery-lettering/page-data.json>; rel=preload; as=fetch; crossorigin
 /tag/design
   Link: </webpack-runtime-d31026a577fa1df9f885.js>; rel=preload; as=script
   Link: </styles-407fe62976dc5310c43e.js>; rel=preload; as=script
