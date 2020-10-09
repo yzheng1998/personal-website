@@ -89,18 +89,6 @@
   Link: </personal-website/component---src-templates-categories-list-template-js-2181ec47d28e5c35d3e9.js>; rel=preload; as=script
   Link: </personal-website/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </personal-website/page-data/categories/page-data.json>; rel=preload; as=fetch; crossorigin
-/personal-website/posts/perfecting-the-art-of-perfection
-  Link: </personal-website/webpack-runtime-7b02f915ad2ad11be986.js>; rel=preload; as=script
-  Link: </personal-website/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </personal-website/framework-4ae830732e225b42b55a.js>; rel=preload; as=script
-  Link: </personal-website/532a2f07-549094fa347c85980056.js>; rel=preload; as=script
-  Link: </personal-website/app-9a518370e4dcc2866af5.js>; rel=preload; as=script
-  Link: </personal-website/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </personal-website/cd95ea5cbd2c605f26db819f07999610c9ff4310-706455f1cc5c6727f2f2.js>; rel=preload; as=script
-  Link: </personal-website/643651a62fb35a9bb4f20061cb1f214a352d7976-2f1fb2331422a5d97452.js>; rel=preload; as=script
-  Link: </personal-website/component---src-templates-post-template-js-9a0b047e1f33250a769a.js>; rel=preload; as=script
-  Link: </personal-website/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </personal-website/page-data/posts/perfecting-the-art-of-perfection/page-data.json>; rel=preload; as=fetch; crossorigin
 /personal-website/posts/the-origins-of-social-stationery-lettering
   Link: </personal-website/webpack-runtime-7b02f915ad2ad11be986.js>; rel=preload; as=script
   Link: </personal-website/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
@@ -136,6 +124,29 @@
   Link: </personal-website/component---src-templates-page-template-js-325d2704a02841a87f30.js>; rel=preload; as=script
   Link: </personal-website/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </personal-website/page-data/pages/contacts/page-data.json>; rel=preload; as=fetch; crossorigin
+/personal-website/pages/about/
+  Link: </personal-website/webpack-runtime-7b02f915ad2ad11be986.js>; rel=preload; as=script
+  Link: </personal-website/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </personal-website/framework-4ae830732e225b42b55a.js>; rel=preload; as=script
+  Link: </personal-website/532a2f07-549094fa347c85980056.js>; rel=preload; as=script
+  Link: </personal-website/app-9a518370e4dcc2866af5.js>; rel=preload; as=script
+  Link: </personal-website/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </personal-website/cd95ea5cbd2c605f26db819f07999610c9ff4310-706455f1cc5c6727f2f2.js>; rel=preload; as=script
+  Link: </personal-website/component---src-templates-page-template-js-325d2704a02841a87f30.js>; rel=preload; as=script
+  Link: </personal-website/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </personal-website/page-data/pages/about/page-data.json>; rel=preload; as=fetch; crossorigin
+/personal-website/posts/perfecting-the-art-of-perfection
+  Link: </personal-website/webpack-runtime-7b02f915ad2ad11be986.js>; rel=preload; as=script
+  Link: </personal-website/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </personal-website/framework-4ae830732e225b42b55a.js>; rel=preload; as=script
+  Link: </personal-website/532a2f07-549094fa347c85980056.js>; rel=preload; as=script
+  Link: </personal-website/app-9a518370e4dcc2866af5.js>; rel=preload; as=script
+  Link: </personal-website/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
+  Link: </personal-website/cd95ea5cbd2c605f26db819f07999610c9ff4310-706455f1cc5c6727f2f2.js>; rel=preload; as=script
+  Link: </personal-website/643651a62fb35a9bb4f20061cb1f214a352d7976-2f1fb2331422a5d97452.js>; rel=preload; as=script
+  Link: </personal-website/component---src-templates-post-template-js-9a0b047e1f33250a769a.js>; rel=preload; as=script
+  Link: </personal-website/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
+  Link: </personal-website/page-data/posts/perfecting-the-art-of-perfection/page-data.json>; rel=preload; as=fetch; crossorigin
 /personal-website/posts/a-brief-history-of-typography
   Link: </personal-website/webpack-runtime-7b02f915ad2ad11be986.js>; rel=preload; as=script
   Link: </personal-website/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
@@ -148,17 +159,6 @@
   Link: </personal-website/component---src-templates-post-template-js-9a0b047e1f33250a769a.js>; rel=preload; as=script
   Link: </personal-website/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
   Link: </personal-website/page-data/posts/a-brief-history-of-typography/page-data.json>; rel=preload; as=fetch; crossorigin
-/personal-website/pages/about/
-  Link: </personal-website/webpack-runtime-7b02f915ad2ad11be986.js>; rel=preload; as=script
-  Link: </personal-website/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </personal-website/framework-4ae830732e225b42b55a.js>; rel=preload; as=script
-  Link: </personal-website/532a2f07-549094fa347c85980056.js>; rel=preload; as=script
-  Link: </personal-website/app-9a518370e4dcc2866af5.js>; rel=preload; as=script
-  Link: </personal-website/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
-  Link: </personal-website/cd95ea5cbd2c605f26db819f07999610c9ff4310-706455f1cc5c6727f2f2.js>; rel=preload; as=script
-  Link: </personal-website/component---src-templates-page-template-js-325d2704a02841a87f30.js>; rel=preload; as=script
-  Link: </personal-website/page-data/app-data.json>; rel=preload; as=fetch; crossorigin
-  Link: </personal-website/page-data/pages/about/page-data.json>; rel=preload; as=fetch; crossorigin
 /personal-website/posts/the-birth-of-movable-type
   Link: </personal-website/webpack-runtime-7b02f915ad2ad11be986.js>; rel=preload; as=script
   Link: </personal-website/styles-407fe62976dc5310c43e.js>; rel=preload; as=script
