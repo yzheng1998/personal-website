@@ -1,6 +1,6 @@
 ---
 title: Maps of Venice
-date: "2020-09-01T00:00:00-04:00"
+date: "2020-09-02T00:00:00-04:00"
 template: "post"
 draft: false
 slug: "maps-of-venice"
@@ -9,11 +9,19 @@ tags:
   - "Venice"
   - "Thesis"
   - "Data Visualization"
-description: "Visual component of my undergraduate senior thesis. I created an interactive timeline of the historical maps of Venice, highlighting urban form changes to show correlation with Venice’s population over time (1603 - 1920). In my thesis, I plan to argue that the first and only land bridge (1846) connecting Venice to mainland Italy was greatly influential in bringing about the population boom incited in 1851.
-"
-socialImage: "/media/image-2.jpg"
+  - "In Progress"
+description: "Visual component of my undergraduate senior thesis. My thesis research focuses on developing cartographic visualizations that assist in analyzing the historical relationship between urban design and population growth in the shrinking city of Venice."
+socialImage: "/media/maps-of-venice-demo.gif"
+link: "https://mapsofvenice.com/"
+demo: "https://mapsofvenice.com/"
+github: "https://github.com/yzheng1998/maps-of-venice"
 ---
 
-Visual component of my undergraduate senior thesis. I created an interactive timeline of the historical maps of Venice, highlighting urban form changes to show correlation with Venice’s population over time (1603 - 1920). In my thesis, I plan to argue that the first and only land bridge (1846) connecting Venice to mainland Italy was greatly influential in bringing about the population boom incited in 1851.
+[![Maps of Venice Demo](/media/maps-of-venice-demo.gif)](https://mapsofvenice.com/)
 
-![Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus](/media/image-2.jpg)
+Visual component of my undergraduate senior thesis. My thesis research focuses on developing cartographic visualizations that assist in analyzing the historical relationship between urban design and population growth in the shrinking city of Venice.
+
+**Demo:** https://mapsofvenice.com/
+
+**Github:** https://github.com/yzheng1998/maps-of-venice
+

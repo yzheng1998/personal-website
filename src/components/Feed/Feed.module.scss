@@ -1,19 +1,39 @@
-@import '../../assets/scss/variables';
-@import '../../assets/scss/mixins';
+@import "../../assets/scss/variables";
+@import "../../assets/scss/mixins";
 
 .feed {
+  &__row {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    margin-top: -20px;
+  }
+
+  &__image {
+    width: 40%;
+    margin-right: 20px;
+
+    &-picture {
+      display: block;
+      // max-width: 100px;
+      // max-height: 95px;
+      width: auto;
+      height: auto;
+    }
+  }
+
   &__item {
     @include margin-bottom(1.25);
 
     &:last-child {
-      @include margin-bottom(.5);
+      @include margin-bottom(0.5);
     }
 
     &-title {
       font-size: $typographic-base-font-size * 1.6875;
       @include line-height(1.5);
       @include margin-top(0);
-      @include margin-bottom(.5);
+      @include margin-bottom(0.5);
 
       &-link {
         color: $color-base;
@@ -23,15 +43,16 @@
           color: $color-base;
           border-bottom: 1px solid $color-base;
         }
-
       }
-
     }
 
     &-description {
-      font-size: $typographic-base-font-size;
-      @include line-height(1);
-      @include margin-bottom(.75);
+      width: 60%;
+      &-p {
+        font-size: $typographic-base-font-size;
+        @include line-height(1);
+        @include margin-bottom(0.75);
+      }
     }
 
     &-meta {
@@ -57,25 +78,20 @@
           &:focus {
             color: $color-primary;
           }
-
         }
-
       }
-
     }
 
     &-readmore {
       font-size: $typographic-base-font-size;
       color: $color-primary;
+      margin-right: 20px;
 
       &:hover,
       &:focus {
         color: $color-primary;
         border-bottom: 1px solid $color-primary;
       }
-
     }
-
   }
-
 }
