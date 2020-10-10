@@ -16,7 +16,6 @@ const Feed = ({ edges }: Props) => (
         typeof edge.node.frontmatter.socialImage !== "undefined"
           ? edge.node.frontmatter.socialImage["publicURL"]
           : undefined;
-      console.log(socialImageUrl);
 
       return (
         <div className={styles["feed__item"]} key={edge.node.fields.slug}>
