@@ -1,50 +1,55 @@
-'use strict';
+"use strict";
 
 module.exports = {
-  url: 'https://yzheng1998.github.io/',
-  pathPrefix: '/personal-website',
-  title: 'Yuke Zheng\'s Portfolio',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
-  copyright: '© All rights reserved.',
-  disqusShortname: '',
-  postsPerPage: 4,
-  googleAnalyticsId: 'UA-73379983-2',
+  url: "https://yzheng1998.github.io/",
+  pathPrefix: "/personal-website",
+  title: "Yuke Zheng's Portfolio",
+  subtitle: "Student at Harvard University",
+  copyright: "",
+  disqusShortname: "",
+  postsPerPage: 5,
+  googleAnalyticsId: "UA-73379983-2",
   useKatex: false,
   menu: [
     {
-      label: 'Articles',
-      path: '/'
+      label: "Projects",
+      path: "/",
     },
     {
-      label: 'About me',
-      path: '/pages/about'
+      label: "Architecture",
+      path: "/pages/architecture",
     },
     {
-      label: 'Contact me',
-      path: '/pages/contacts'
-    }
+      label: "About me",
+      path: "/pages/about",
+    },
+    {
+      label: "Resume",
+      path: "/pages/resume",
+    },
   ],
   author: {
-    name: 'John Doe',
-    photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    name: "Yuke Zheng",
+    photo: "/profile-pic.jpg",
+    bio:
+      "Senior at Harvard University\nA.B. in Computer Science and History of Art and Architecture\nInterested in Software Engineering and Data Visualization",
     contacts: {
-      email: '',
-      facebook: '#',
-      telegram: '#',
-      twitter: '#',
-      github: '#',
-      rss: '',
-      vkontakte: '',
-      linkedin: '#',
-      instagram: '#',
-      line: '',
-      gitlab: '',
-      weibo: '',
-      codepen: '',
-      youtube: '',
-      soundcloud: '',
-      medium: '',
-    }
-  }
+      email: "",
+      facebook: "",
+      telegram: "",
+      twitter: "",
+      github: "yzheng1998",
+      rss: "",
+      vkontakte: "",
+      linkedin: "yuke-zheng-9611a4151/",
+      instagram: "",
+      line: "",
+      gitlab: "",
+      weibo: "",
+      codepen: "",
+      youtube: "",
+      soundcloud: "",
+      medium: "",
+    },
+  },
 };
