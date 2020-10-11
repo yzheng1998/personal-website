@@ -2,12 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:news="http://www.google.com/schemas/sitemap-news/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:mobile="http://www.google.com/schemas/sitemap-mobile/1.0" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
 <url> <loc>https://yzheng1998.github.io/personal-website/tags</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yzheng1998.github.io/personal-website/categories</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://yzheng1998.github.io/personal-website/posts/CityScope.js</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://yzheng1998.github.io/personal-website/posts/Arcturus-Orion</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yzheng1998.github.io/personal-website/posts/overtourism-in-venice</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yzheng1998.github.io/personal-website/posts/CityScope.js</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yzheng1998.github.io/personal-website/pages/about/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://yzheng1998.github.io/personal-website/pages/resume/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yzheng1998.github.io/personal-website/pages/architecture/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yzheng1998.github.io/personal-website/pages/resume/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://yzheng1998.github.io/personal-website/posts/Arcturus-Orion</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yzheng1998.github.io/personal-website/posts/maps-of-venice</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yzheng1998.github.io/personal-website/tag/data-visualization</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://yzheng1998.github.io/personal-website/tag/hci</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
