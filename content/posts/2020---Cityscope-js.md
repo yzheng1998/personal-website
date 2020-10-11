@@ -1,9 +1,9 @@
 ---
 title: "CityScope.js - MIT Media Lab"
-date: "2020-09-01T00:00:00-04:00"
+date: ["2020-01-01T00:00:00-04:00", "2020-09-01T00:00:00-04:00"]
 template: "post"
 draft: false
-slug: "CityScope.js"
+slug: "cityscope-js"
 category: "Research"
 tags:
   - "Research"

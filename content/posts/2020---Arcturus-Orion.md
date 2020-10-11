@@ -1,9 +1,9 @@
 ---
 title: Arcturus Orion
-date: "2020-07-04T00:00:00-04:00"
+date: ["2020-06-04T00:00:00-04:00", "2020-08-04T00:00:00-04:00"]
 template: "post"
 draft: false
-slug: "Arcturus-Orion"
+slug: "arcturus-orion"
 category: "Internship"
 description: "A mapping software that allows users to report and view crime incidents in real time, providing users with predictive analytics regarding threats and safe navigation routing. Contributions made during an internship with a Boston-based startup, Arcturus."
 socialImage: "/media/arcturus-demo.gif"

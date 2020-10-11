@@ -1,6 +1,6 @@
 ---
 title: Overtourism in Venice
-date: "2020-07-01T00:00:00-04:00"
+date: ["2020-01-01T00:00:00-04:00", "2020-07-01T00:00:00-04:00"]
 template: "post"
 draft: false
 slug: "overtourism-in-venice"

@@ -1,6 +1,6 @@
 ---
 title: Maps of Venice
-date: "2020-09-02T00:00:00-04:00"
+date: ["2020-08-02T00:00:00-04:00", "2020-09-02T00:00:00-04:00"]
 template: "post"
 draft: false
 slug: "maps-of-venice"

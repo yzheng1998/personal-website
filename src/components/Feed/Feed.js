@@ -16,18 +16,35 @@ const Feed = ({ edges }: Props) => (
         typeof edge.node.frontmatter.socialImage !== "undefined"
           ? edge.node.frontmatter.socialImage["publicURL"]
           : undefined;
+      const { date } = edge.node.frontmatter;
 
       return (
         <div className={styles["feed__item"]} key={edge.node.fields.slug}>
           <div className={styles["feed__item-meta"]}>
-            <time
-              className={styles["feed__item-meta-time"]}
-              dateTime={moment(edge.node.frontmatter.date).format(
-                "MMMM D, YYYY"
-              )}
-            >
-              {moment(edge.node.frontmatter.date).format("MMMM YYYY")}
-            </time>
+            {Array.isArray(date) ? (
+              <>
+                <time
+                  className={styles["feed__item-meta-time"]}
+                  dateTime={moment(date[0]).format("MMMM D, YYYY")}
+                >
+                  {moment(date[0]).format("MMMM YYYY")}
+                </time>
+                <span> - </span>
+                <time
+                  className={styles["feed__item-meta-time"]}
+                  dateTime={moment(date[1]).format("MMMM D, YYYY")}
+                >
+                  {moment(date[1]).format("MMMM YYYY")}
+                </time>
+              </>
+            ) : (
+              <time
+                className={styles["feed__item-meta-time"]}
+                dateTime={moment(date).format("MMMM D, YYYY")}
+              >
+                {moment(date).format("MMMM YYYY")}
+              </time>
+            )}
             <span className={styles["feed__item-meta-divider"]} />
             <span className={styles["feed__item-meta-category"]}>
               <Link
@@ -85,6 +102,7 @@ const Feed = ({ edges }: Props) => (
               Github
             </a>
           )}
+          <hr className={styles["feed__item-line"]}></hr>
         </div>
       );
     })}
