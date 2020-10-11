@@ -1,8 +1,8 @@
 "use strict";
 
 module.exports = {
-  url: "https://yzheng1998.github.io/",
-  pathPrefix: "/personal-website",
+  url: "http://www.yukezheng.com",
+  pathPrefix: "",
   title: "Yuke Zheng's Portfolio",
   subtitle: "Student at Harvard University",
   copyright: "",
