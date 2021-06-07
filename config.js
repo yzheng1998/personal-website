@@ -32,7 +32,7 @@ module.exports = {
     name: "Yuke Zheng",
     photo: "/profile-pic.jpg",
     bio:
-      "Senior at Harvard University\nA.B. in Computer Science and History of Art and Architecture\nInterested in Software Engineering and Data Visualization",
+      "Recent Graduate at Harvard University\nA.B. in Computer Science and History of Art and Architecture\nRotational Development Program at Jane Street Capital",
     contacts: {
       email: "",
       facebook: "",
