@@ -20,7 +20,9 @@ This web visualization project uses Deck.gl and Mapbox to visualize the impacts 
 
 **My Contributions:** All interactive maps
 
-**Research Blog:** http://www.overtourismvenice.mit.edu/
+**Research Blog:** http://www.overtourismvenice.mit.edu/ (Website is currently down)
+
+**Demo:** https://yzheng1998.github.io/overtourism-web/#/
 
 **Github:** https://github.com/yzheng1998/overtourism-web
 
